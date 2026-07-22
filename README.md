@@ -26,6 +26,26 @@ MayankConsole@github:~$ mission
 ```
 
 <br/>
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MayankConsole/MayankConsole/gh-pages/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MayankConsole/MayankConsole/gh-pages/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Mayank's Contribution Snake"
+    src="https://raw.githubusercontent.com/MayankConsole/MayankConsole/gh-pages/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
 
 <div align="center">
 
@@ -273,3 +293,5 @@ Status: In Progress █
 ### `MayankConsole@github:~$ exit █`
 
 </div>
+
+
