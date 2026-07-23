@@ -147,7 +147,7 @@ Student-focused platform designed to help institutions identify academic risks a
 
 <br/>
 
-<a href="https://github.com/MayankConsole](https://github.com/MayankConsole/EduGaurd-test-">
+<a href="https://github.com/MayankConsole/EduGaurd-test-">
 <img src="https://img.shields.io/badge/EXPLORE_PROJECT-BB86FC?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
